@@ -1,7 +1,7 @@
 site_name: AI Agent 实战手册
 site_description: 中文 AI Agent 实战手册 - 从零基础到全栈开发的系统化教程（双语）
-site_url: https://xwh630.github.io/ai-agent-handbook/
-repo_url: https://github.com/Xwh630/ai-agent-handbook
+site_url: https://keep-maker.github.io/ai-agent-handbook/
+repo_url: https://github.com/Keep-maker/ai-agent-handbook
 docs_dir: site-content
 site_dir: site
 
